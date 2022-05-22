@@ -1,0 +1,41 @@
+body
+    {
+      background-color:#FCF3CF;
+      font-family: Arial;
+      margin: 100px;
+      text-align: center;
+    }
+h1
+    {
+      color: #3498DB;
+     font-weight: normal;
+      font-size: 30px;
+      text-align: center;
+    }
+  h2
+    {
+      color: #3498DB;
+      font-size: 20px;
+    }
+img.icon
+    {
+      width: 25px;
+     height: 25px
+    }
+img
+    {
+     width: 800px;
+     height: 400px;
+    }
+i
+    {
+      font-size: 12px;
+    }
+p
+    {
+    color:#515A5A;
+    }
+h3
+    {
+    color:#515A5A;
+    }
